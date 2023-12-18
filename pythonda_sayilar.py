@@ -25,8 +25,8 @@
 # yas = input("öğrenci yaşını giriniz: ")
 # ogrenci = print(f"{adi} {soyadi}, {yas} yaşında")
 
-a = 0
-while a < 10:
-    a += 1
-    print(a)
+# a = 0
+# while a < 10:
+#     a += 1
+#     print(a)
     
